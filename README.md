@@ -16,7 +16,7 @@ Project aims to create a Task Tracker App.
 ```
 002 - Task Tracker (folder)
 |
-|----readme.md         # Given to the students (Definition of the project)
+|----readme.md         
 SOLUTION
 ├── public
 │     └── index.html
@@ -57,7 +57,7 @@ Build a Task Tracker App using ReactJS.
 
 - ReactJS
 
-### At the end of the project, students will be able to;
+### At the end of the project,we will be able to;
 
 - improve coding skills within HTML & CSS & JS & ReactJS.
 
